@@ -8,6 +8,6 @@
 5. Обязательно к реализации изменение аватарки кота в зависимости от уровня счастья.
 
 Скриншоты готового приложения:
-![input cats name](https://prnt.sc/hFIJQ3SzBh5g)
-![feeding Redis](https://prnt.sc/MmRsxklmiNUW)
-![Redis is OK](https://prnt.sc/QVdLRr2F5Tg9)
+[input cats name](https://prnt.sc/hFIJQ3SzBh5g)
+[feeding Redis](https://prnt.sc/MmRsxklmiNUW)
+[Redis is OK](https://prnt.sc/QVdLRr2F5Tg9)
