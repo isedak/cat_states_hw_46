@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <title>create_cat</title>
+</head>
+
+<body>
+<div class="flex-container main-background">
+    <div class="flex-column">
+        <h1 class="header">Ryzh</h1>
+        <h2 class="header-gray">4 years old</h2>
+        <div class="form-box">
+            <img src="img/cat-3-4-s.svg" alt="avatar">
+            <h3 class="avatar-note">Ryzh sleeps well.</h3>
+            <h3 class="post-action-note">Ryzh is sleeping!</h3>
+            <p class="body-text">Mood: 80</p>
+            <p class="body-text">Satiaty: 20</p>
+            <p class="label-gray"><label for="cat">Choose your action</label></p>
+            <form action="http://localhost:8000/cat_stats.html" method="GET">
+                <select class="input-frame" name="catAction" id="cat">
+                    <option selected></option>
+                    <option value="feed">Feed</option>
+                    <option value="play">Play</option>
+                    <option value="sleep">Put to sleep</option>
+                </select>
+                <button class="submit-button" type="submit">Submit</button>
+            </form>
+        </div>
+        <p class="footer-text">Cats were redrawn from <a href="https://iconka.com/" class="footer-link">iconka.com</a>
+        </p>
+    </div>
+</div>
+</body>
+
+</html>

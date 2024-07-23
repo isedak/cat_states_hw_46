@@ -1,0 +1,10 @@
+{
+  "Name": "Ryzh",
+  "Age": 4,
+  "Satiety": 20,
+  "Mood": 80,
+  "StateName": "slept",
+  "Note": "Ryzh is sleeping!",
+  "AvatarNote": "Ryzh sleeps well.",
+  "AvatarPath": "img/cat-3-4-s.svg"
+}

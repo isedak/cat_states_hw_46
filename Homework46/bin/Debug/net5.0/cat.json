@@ -1,0 +1,10 @@
+{
+  "Name": "Рыжик",
+  "Age": 5,
+  "Satiety": 15,
+  "Mood": 30,
+  "StateName": "fed",
+  "Note": "...",
+  "AvatarNote": "Рыжик needs something...",
+  "AvatarPath": "img/cat-2.svg"
+}
